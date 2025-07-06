@@ -1,7 +1,5 @@
 # RDAMP-Sales-Analysis_Vineet_Khurama
 
-![Brand Logo](Ace Superstore.png) ACE Superstore Sales Analysis
-
 ## About the Project
 
 This project was completed as part of the **Realcare Tech Mark Ltd Data Analytics Mentorship Program**, which provides hands-on experience with real-world datasets to build data analytics skills and industry-ready dashboards.
@@ -99,8 +97,8 @@ Developed DAX measures to calculate:
 
 ## Summary
 
-- Presented actionable insights on sales trends, profitability, and customer preferences
-- Offered strategic recommendations for improving performance and profitability
+- Presented Business performance summary on sales trends, profitability, and customer preferences
+- Offered strategic recommendations for improving business performance and profitability
 
 ---
 
@@ -120,8 +118,6 @@ Developed DAX measures to calculate:
 
 ----
 
-![Sales Analysis Page](Sales Analysis.png)
-
-----
+![Sales Analysis Page](Sales_Analysis.png)
 
 ----
